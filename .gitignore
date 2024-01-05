@@ -7,3 +7,5 @@
 *.filters
 *.user
 *.sln
+/MyInterpretator/x64/Debug
+/x64/Debug
